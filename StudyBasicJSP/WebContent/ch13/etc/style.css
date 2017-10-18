@@ -1,0 +1,34 @@
+@CHARSET "UTF-8";
+body {
+	font-family: 맑음고딕,고딕,굴림;
+	font-size: 12px; 
+	text-align: center;
+}
+table {
+	margin: 0 auto;
+	width:600px;
+	font-size: 12px;
+	text-align: center;
+	border: 1px solid black;
+}
+
+select {
+	font-size: 12px; 
+}
+
+form {
+	font-size: 12px; 
+}
+
+p{
+	font-weight: 700;
+}
+a{
+	text-decoration:none;
+	font-color: black;
+}
+a:hover,a:forcus,a:active{
+	font-color: #800000
+}
+
+
